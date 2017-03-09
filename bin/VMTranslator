@@ -1,0 +1,3 @@
+ #!/usr/bin/env bash
+
+java -jar vm-translator-0.1.0-SNAPSHOT-standalone.jar $1
